@@ -2,7 +2,8 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://longcheng.zone
+# url: https://longcheng.zone
+url: https://cheng3100.github.io/blog_temp
 date_format: "ordinal"
 title: My Blog
 subtitle: "龙城的空间"
