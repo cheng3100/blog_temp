@@ -3,6 +3,7 @@ feature
 
 # comment
 
+- [ ] clean all non-self content. only template file is need.
 - [ ] how to set up comment
 - [ ] comment account setting
 
@@ -20,3 +21,11 @@ feature
 
 - [ ] visitors number record
 - [ ] pages views number record
+
+# access
+
+- [ ] custom domain.
+
+# debug
+
+- [ ] install local jekyll environment and debug at local.
