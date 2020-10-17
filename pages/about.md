@@ -1,18 +1,16 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: About me
+keywords: Long Cheng, 程龙
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+对所有好玩的东西都感兴趣，喜欢时不时整理自己的学习，希望可以一直保持学习的状态到老
 
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+> 要多锻炼身体，少加班，多提PR ;)
 
 ## 联系
 
@@ -20,11 +18,12 @@ permalink: /about/
 {% for website in site.data.social %}
 <li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
 {% endfor %}
+
 {% if site.url contains 'mazhuang.org' %}
-<li>
-微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
-</li>
+<!-- <li> -->
+<!-- 微信公众号：<br /> -->
+<!-- <img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" /> -->
+<!-- </li> -->
 {% endif %}
 </ul>
 

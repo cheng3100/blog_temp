@@ -1,27 +1,28 @@
 - sitename: GitHub
-  name: mzlogin
-  url: https://github.com/mzlogin
+  name: cheng3100
+  url: https://github.com/cheng3100
 
-- sitename: 掘金
-  name: mzlogin
-  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
+# - sitename: 掘金
+#   name: 
+#   url: 
 
 - sitename: LinkedIn
-  name: mazhuang
-  url: https://www.linkedin.com/in/mazhuang
+  name: 程龙
+  url: https://www.linkedin.com/in/%E9%BE%99-%E7%A8%8B-53b656172/
 
-- sitename: 博客
-  name: 码志
-  url: http://mazhuang.org
-
-- sitename: 微博
-  name: mzlogin
-  url: http://weibo.com/mzlogin
+- sitename: CSDN
+  name: cheng3100
+  url: https://blog.csdn.net/u013810296
 
 - sitename: 知乎
-  name: mzlogin
-  url: http://www.zhihu.com/people/mzlogin
+  name: cheng
+  url: https://www.zhihu.com/people/cheng-31-10-48
 
-- sitename: 豆瓣
-  name: 壮哥不胖
-  url: http://www.douban.com/people/freedim
+- sitename: 简书
+  name: mzlogin
+  url: https://www.jianshu.com/u/2575fff82b44
+
+- sitename : email
+  name: xcchengl@126.com
+  url: xcchengl@126.com
+
