@@ -3,7 +3,7 @@ feature
 
 # comment
 
-- [ ] clean all non-self content. only template file is need.
+- [x] clean all non-self content. only template file is need.
 - [ ] how to set up comment
 - [ ] comment account setting
 
@@ -11,6 +11,7 @@ feature
 
 - [ ] how to switch theme, figure out the dependence.
 - [ ] which part of theme can be customed.
+- [ ] setting the special effort on some page like 404.html
 
 # content
 
@@ -24,8 +25,12 @@ feature
 
 # access
 
-- [ ] custom domain.
+- [x] custom domain.
 
 # debug
 
 - [ ] install local jekyll environment and debug at local.
+
+# Advertisement
+
+- [ ] Learn about major advertising platform, choose one like google adv and set to the blog site.
