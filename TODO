@@ -4,8 +4,8 @@ feature
 # comment
 
 - [x] clean all non-self content. only template file is need.
-- [ ] how to set up comment
-- [ ] comment account setting
+- [x] how to set up comment
+- [x] comment account setting
 
 # theme
 
@@ -17,11 +17,12 @@ feature
 
 - [ ] where the blog file be put to.
 - [ ] where picture is saved.
+- [ ] move blogs to here.
 
 # traffic
 
-- [ ] visitors number record
-- [ ] pages views number record
+- [x] visitors number record
+- [x] pages views number record
 
 # access
 
