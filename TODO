@@ -9,14 +9,14 @@ feature
 
 # theme
 
-- [ ] how to switch theme, figure out the dependence.
-- [ ] which part of theme can be customed.
-- [ ] setting the special effort on some page like 404.html
+- [ ] ~~how to switch theme, figure out the dependence.~~
+- [ ] ~~which part of theme can be customed.~~
+- [ ] ~~setting the special effect on some page like 404.html~~
 
 # content
 
-- [ ] where the blog file be put to.
-- [ ] where picture is saved.
+- [x] where the blog file be put to.
+- [x] where picture is saved. -- by using vim plugin "md-img-paste"
 - [ ] move blogs to here.
 
 # traffic

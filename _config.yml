@@ -2,8 +2,8 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-# url: https://longcheng.zone
-url: https://cheng3100.github.io/blog_temp
+url: https://longcheng.zone/blog_temp
+# url: https://cheng3100.github.io/blog_temp
 date_format: "ordinal"
 title: My Blog
 subtitle: "龙城"
@@ -153,7 +153,7 @@ simple_jekyll_search:
 google:
     analytics_id: UA-80669434-1
     adsense:
-        footer: true
+        footer: false
         sidebar: true
-        content_header: true
+        content_header: false
         content_footer: false
