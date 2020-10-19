@@ -35,6 +35,7 @@ word_count:
     enabled: true
 # 代码高亮风格，支持的 theme 列表见 https://github.com/mzlogin/rouge-themes
 highlight_theme: github
+excerpt_separator: ""
 
 # ---------------- #
 #      Author      #
@@ -154,6 +155,6 @@ google:
     analytics_id: UA-80669434-1
     adsense:
         footer: false
-        sidebar: false
+        sidebar: true
         content_header: false
         content_footer: false
